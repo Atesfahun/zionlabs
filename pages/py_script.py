@@ -1,5 +1,7 @@
+
 import requests
 #Adding the font icons
+
 """ file = open("test_parts.txt", 'r')
 cun = 0
 description = ""
@@ -17,6 +19,7 @@ for num, i in enumerate(file):
         #print(attr_name + "-" + attr_applicable + "-" + attr_description + "\n")
     
         
+
 
 #endpoint test
 payload = dict(icon_name="Value 4", description="Value 2", type="type 1", )
