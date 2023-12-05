@@ -1,6 +1,6 @@
-# Zionlab
+# Zionlabs
 
-Welcome to the official GitHub repository for Zionlab!
+Welcome to the official GitHub repository for Zionlabs!
 
 ## About
 
