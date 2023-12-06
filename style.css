@@ -16,12 +16,15 @@ footer1{
   #insta:hover{
     background: linear-gradient(to bottom right, #ff3399 19%, #ff9933 90%);
   }
+
   #link:hover{
     background-color: rgb(57, 111, 165);
   }
+
   .nav-link:hover{
     color: navy !important;
   }
+
   .nav-item:hover{
     color: navy !important;
   }
